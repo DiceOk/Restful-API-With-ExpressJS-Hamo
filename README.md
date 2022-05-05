@@ -1,2 +1,4 @@
-# Restful-API-with-ExpressJS-Hamo
+# open terminal and enter "node index.js"
+
+
  
